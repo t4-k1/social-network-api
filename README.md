@@ -10,7 +10,6 @@ ThoughtKeeper is a RESTful API for managing thoughts and reactions between users
   - [Users](#users)
   - [Thoughts](#thoughts)
 - [Usage](#usage)
-- [Contribution](#contribution)
 - [License](#license)
 
 ## Technologies Used
